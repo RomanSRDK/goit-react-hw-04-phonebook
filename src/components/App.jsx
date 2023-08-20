@@ -3,7 +3,7 @@ import ContactForm from './ContactForm/ContactForm';
 import ContactList from "./ContactLIst/ContactList";
 import Filter from "./Filter/Filter";
 import Title from "./Title/Title";
-import styles from '../App.module.css'
+import styles from './App.module.css'
 import { nanoid } from 'nanoid';
 
 export default class App extends Component {
